@@ -11,10 +11,9 @@
 - ⚡ Fun fact: I love to code
 
 
-<a href="https://www.github.com/VincentWasswa" target="_blank" rel="noreferrer"
-  ><img
-    src="https://img.shields.io/github/followers/VincentWasswa?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a
->
+<a href="https://www.github.com/VincentWasswa" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/github/followers/VincentWasswa?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="followers">
+</a>
 
 ### Skills
 
